@@ -12,4 +12,5 @@ def get_random_quote():
         return f"{error}"
 
 if __name__ == "__main__":
+    print("zmiana")
     print(get_random_quote())
